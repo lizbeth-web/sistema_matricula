@@ -1,0 +1,6 @@
+[2026-11-09T07:13:49.100944] TX:TX001 - DECISION:COMMIT - Estudiante: estudiante1, Curso: ISA902
+[2026-11-09T07:13:49.102716] TX:TX002 - DECISION:ABORT - Motivo: Sin cupos en BD Relacional
+[2026-11-09T07:13:49.104580] TX:TX003 - DECISION:ABORT - Motivo: Estudiante sin historial en BD Documental
+[2026-11-09T07:18:51.796210] TX:TX001 - DECISION:COMMIT - Estudiante: estudiante1, Curso: ISA902
+[2026-11-09T07:18:51.797757] TX:TX002 - DECISION:ABORT - Motivo: Sin cupos en BD Relacional
+[2026-11-09T07:18:51.798908] TX:TX003 - DECISION:ABORT - Motivo: Estudiante sin historial en BD Documental
